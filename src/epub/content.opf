@@ -34,10 +34,10 @@
 		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/10458</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A collection of short stories by Gustave Flaubert which contains “Herodias” and the stories from <i>Three Short Works</i>.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONGDESCRIPTION
+			&lt;p&gt;Gustave Flaubert was an influential novelist who had both the characteristics of a romanticist and a realist, which this collection of short stories displays really well.&lt;/p&gt; &lt;p&gt;Flaubert wrote the first story “The Dance of Death” when he was only 17 years old. It is written in a play format as a conversation between Death, Satan and Nero and is some times referred to as a prose poem. Next “The Legend of Saint Julian the Hospitaller” is a story about Julian the Hospitaller, who shares some similarities with Oedipus. After that “A Simple Soul” tells the story of a servant girl named Felicité and finally there’s the retelling of the beheading of &lt;abbr&gt;St.&lt;/abbr&gt; John the Baptist called “Herodias.”&lt;/p&gt; &lt;p&gt;Collected here are all the available public domain translations into English of Flaubert’s short fiction. “The Dance of Death” was first published in 1838 and the other stories were first available in the work &lt;i&gt;Three Tales&lt;/i&gt;, which was published in French in 1877.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
