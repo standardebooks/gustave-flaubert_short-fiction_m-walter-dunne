@@ -67,15 +67,15 @@
 		<dc:contributor id="transcriber-1">Juliet Sutherland</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Sutherland, Juliet</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-1">The Online Distributed Proofreading Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">The Online Distributed Proofreading Team</meta>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-1">David Widger</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Widger, David</meta>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-1">John Bickers</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Bickers, John</meta>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-2">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">The Online Distributed Proofreading Team</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">David Widger</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Widger, David</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-4">John Bickers</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Bickers, John</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Hendrik Matvejev</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Matvejev, Hendrik</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
