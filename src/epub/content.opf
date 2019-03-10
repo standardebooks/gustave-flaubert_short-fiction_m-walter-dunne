@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/gustave-flaubert/short-fiction/m-walter-dunne</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
-		<meta property="se:revision-number">0</meta>
+		<dc:date>2019-03-10T23:39:56Z</dc:date>
+		<meta property="dcterms:modified">2019-03-10T23:39:56Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -34,19 +34,19 @@
 		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/10458</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
-		<dc:description id="description">A collection of four short stories by Gustave Flaubert.</dc:description>
+		<dc:description id="description">A collection of short stories by Gustave Flaubert.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Gustave Flaubert was an influential novelist who had both the characteristics of a romanticist and a realist, which this collection of short stories displays really well.&lt;/p&gt; &lt;p&gt;Flaubert wrote the first story “The Dance of Death” when he was only 17 years old. It is written in a play format as a conversation between Death, Satan and Nero and is some times referred to as a prose poem. Next “The Legend of Saint Julian the Hospitaller” is a story about Julian the Hospitaller, who shares some similarities with Oedipus. After that “A Simple Soul” tells the story of a servant girl named Felicité and finally there’s the retelling of the beheading of &lt;abbr&gt;St.&lt;/abbr&gt; John the Baptist called “Herodias.”&lt;/p&gt; &lt;p&gt;Collected here are all the available public domain translations into English of Flaubert’s short fiction. “The Dance of Death” was first published in 1838 and the other stories were first available in the work &lt;i&gt;Three Tales&lt;/i&gt;, which was published in French in 1877.&lt;/p&gt;
+			&lt;p&gt;Gustave Flaubert was an influential novelist who had both the characteristics of a romanticist and a realist. The short stories in this collection displays put that dichotomy on display.&lt;/p&gt;
+			&lt;p&gt;Flaubert wrote the first story, “The Dance of Death” when he was only 17 years old. It is written in a play format--though sometimes referred to as a prose poem--and features a conversation between Death, Satan and Nero. “The Legend of Saint Julian the Hospitaller” is a story about Julian the Hospitaller, a man who shares some similarities with Oedipus; “A Simple Soul” tells the story of a servant girl named Felicité; and lastly “Herodias” there’s retells the beheading of St. John the Baptist.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/10458</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/1291</dc:source>
 		<dc:source>https://books.google.ee/books?id=x_UaAAAAYAAJ</dc:source>
-		<meta property="se:production-notes">Be careful, "typogrify" removes necessary commas before em-dashes.</meta>
-		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:reading-ease.flesch">READINGEASE</meta>
+		<meta property="se:word-count">38281</meta>
+		<meta property="se:reading-ease.flesch">69.01</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Short_fiction</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/gustave-flaubert_short-fiction_m-walter-dunne</meta>
 		<dc:creator id="author">Gustave Flaubert</dc:creator>
@@ -67,14 +67,14 @@
 		<dc:contributor id="transcriber-1">Juliet Sutherland</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Sutherland, Juliet</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">The Online Distributed Proofreading Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">The Online Distributed Proofreading Team</meta>
+		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">David Widger</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Widger, David</meta>
+		<dc:contributor id="transcriber-3">John Bickers</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Bickers, John</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-4">John Bickers</dc:contributor>
-		<meta property="file-as" refines="#transcriber-4">Bickers, John</meta>
+		<dc:contributor id="transcriber-4">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">The Online Distributed Proofreading Team</meta>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Hendrik Matvejev</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Matvejev, Hendrik</meta>
@@ -84,6 +84,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
