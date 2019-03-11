@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/gustave-flaubert/short-fiction/m-walter-dunne</dc:identifier>
 		<dc:date>2019-03-10T23:39:56Z</dc:date>
-		<meta property="dcterms:modified">2019-03-10T23:39:56Z</meta>
-		<meta property="se:revision-number">1</meta>
+		<meta property="dcterms:modified">2019-03-11T18:26:09Z</meta>
+		<meta property="se:revision-number">2</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -37,8 +37,8 @@
 		<dc:description id="description">A collection of short stories by Gustave Flaubert.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Gustave Flaubert was an influential novelist who had both the characteristics of a romanticist and a realist. The short stories in this collection displays put that dichotomy on display.&lt;/p&gt;
-			&lt;p&gt;Flaubert wrote the first story, “The Dance of Death” when he was only 17 years old. It is written in a play format--though sometimes referred to as a prose poem--and features a conversation between Death, Satan and Nero. “The Legend of Saint Julian the Hospitaller” is a story about Julian the Hospitaller, a man who shares some similarities with Oedipus; “A Simple Soul” tells the story of a servant girl named Felicité; and lastly “Herodias” there’s retells the beheading of St. John the Baptist.&lt;/p&gt;
+			&lt;p&gt;Gustave Flaubert was an influential novelist who had both the characteristics of a romanticist and a realist. The short stories in this collection put that dichotomy on display.&lt;/p&gt;
+			&lt;p&gt;Flaubert wrote the first story, “The Dance of Death” when he was only 17 years old. It is written in a play format—though sometimes referred to as a prose poem—and features a conversation between Death, Satan and Nero. “The Legend of Saint Julian the Hospitaller” is a story about Julian the Hospitaller, a man who shares some similarities with Oedipus; “A Simple Soul” tells the story of a servant girl named Felicité; and lastly “Herodias” retells the beheading of St. John the Baptist.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
