@@ -26,20 +26,19 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Short Fiction</dc:title>
 		<meta property="file-as" refines="#title">Short Fiction</meta>
 		<dc:subject id="subject-1">French literature</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/10458</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85051865</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of short stories by Gustave Flaubert.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Gustave Flaubert was an influential novelist who had both the characteristics of a romanticist and a realist. The short stories in this collection put that dichotomy on display.&lt;/p&gt;
 			&lt;p&gt;Flaubert wrote the first story, “The Dance of Death” when he was only 17 years old. It is written in a play format—though sometimes referred to as a prose poem—and features a conversation between Death, Satan and Nero. “The Legend of Saint Julian the Hospitaller” is a story about Julian the Hospitaller, a man who shares some similarities with Oedipus; “A Simple Soul” tells the story of a servant girl named Felicité; and lastly “Herodias” retells the beheading of St. John the Baptist.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/10458</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/1291</dc:source>
