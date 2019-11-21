@@ -21,7 +21,7 @@ section > header [epub|type~="epigraph"] + *{
 }
 
 @supports(display: table){
-section > header [epub|type~="epigraph"]{
+	section > header [epub|type~="epigraph"]{
 		display: table;
 	}
 }
