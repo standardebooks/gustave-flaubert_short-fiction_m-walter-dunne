@@ -9,19 +9,19 @@
 /* End all epigraphs */
 
 /* Epigraphs in section headers */
-section > header [epub|type~="epigraph"]{
+article > header [epub|type~="epigraph"]{
 	display: inline-block;
 	margin: auto;
 	max-width: 80%;
 	text-align: left;
 }
 
-section > header [epub|type~="epigraph"] + *{
+article > header [epub|type~="epigraph"] + *{
 	margin-top: 3em;
 }
 
 @supports(display: table){
-	section > header [epub|type~="epigraph"]{
+	article > header [epub|type~="epigraph"]{
 		display: table;
 	}
 }
@@ -85,4 +85,10 @@ section > header [epub|type~="epigraph"] + *{
 span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
+}
+
+#the-dance-of-death header + header{
+	font-size: 1.2em;
+	font-variant: small-caps;
+	font-weight: bold;
 }
