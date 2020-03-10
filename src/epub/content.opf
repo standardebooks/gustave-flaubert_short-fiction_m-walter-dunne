@@ -45,7 +45,6 @@
 		<dc:source>https://books.google.com/books?id=x_UaAAAAYAAJ</dc:source>
 		<meta property="se:word-count">38281</meta>
 		<meta property="se:reading-ease.flesch">69.01</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Short_fiction</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/gustave-flaubert_short-fiction_m-walter-dunne</meta>
 		<dc:creator id="author">Gustave Flaubert</dc:creator>
 		<meta property="file-as" refines="#author">Flaubert, Gustave</meta>
