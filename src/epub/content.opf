@@ -36,8 +36,8 @@
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of short stories by Gustave Flaubert.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Gustave Flaubert was an influential novelist who had both the characteristics of a romanticist and a realist. The short stories in this collection put that dichotomy on display.&lt;/p&gt;
-			&lt;p&gt;Flaubert wrote the first story, “The Dance of Death” when he was only 17 years old. It is written in a play format—though sometimes referred to as a prose poem—and features a conversation between Death, Satan and Nero. “The Legend of Saint Julian the Hospitaller” is a story about Julian the Hospitaller, a man who shares some similarities with Oedipus; “A Simple Soul” tells the story of a servant girl named Felicité; and lastly “Herodias” retells the beheading of St. John the Baptist.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/gustave-flaubert"&gt;Gustave Flaubert&lt;/a&gt; was an influential novelist who had both the characteristics of a romanticist and a realist. The short stories in this collection put that dichotomy on display.&lt;/p&gt;
+			&lt;p&gt;Flaubert wrote the first story, “The Dance of Death” when he was only 17 years old. It is written in a play format—though sometimes referred to as a prose poem—and features a conversation between Death, Satan and Nero. “The Legend of Saint Julian the Hospitaller” is a story about Julian the Hospitaller, a man who shares some similarities with Oedipus; “A Simple Soul” tells the story of a servant girl named Felicité; and lastly “Herodias” retells the beheading of &lt;abbr&gt;St.&lt;/abbr&gt; John the Baptist.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/10458</dc:source>
