@@ -81,7 +81,7 @@ article > header [epub|type~="epigraph"] + *{
 }
 
 #the-dance-of-death header blockquote + p{
-	font-size: 1.2em;
+	font-size: larger;
 	font-variant: small-caps;
 	font-weight: bold;
 	text-indent: 0;
