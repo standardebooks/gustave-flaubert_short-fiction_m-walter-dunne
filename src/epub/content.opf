@@ -72,7 +72,7 @@
 		<dc:contributor id="transcriber-3">John Bickers</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Bickers, John</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-4">The Online Distributed Proofreading Team</dc:contributor>
+		<dc:contributor id="transcriber-4">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-4">The Online Distributed Proofreading Team</meta>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Hendrik Matvejev</dc:contributor>
