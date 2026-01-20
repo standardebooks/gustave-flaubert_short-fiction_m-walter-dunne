@@ -46,7 +46,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/10458</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/1291</dc:source>
 		<dc:source>https://books.google.com/books?id=x_UaAAAAYAAJ</dc:source>
-		<meta property="se:word-count">38281</meta>
+		<meta property="se:word-count">38134</meta>
 		<meta property="se:reading-ease.flesch">69.01</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/gustave-flaubert_short-fiction_m-walter-dunne</meta>
 		<dc:creator id="author">Gustave Flaubert</dc:creator>
