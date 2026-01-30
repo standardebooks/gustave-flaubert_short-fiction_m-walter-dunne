@@ -37,6 +37,7 @@
 		<meta property="se:is-a-collection">true</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Gateway to the Great Books</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="se:title-in-collection" refines="#collection-1">The Legend of St. Julian the Hospitaller</meta>
 		<dc:description id="description">A collection of short stories by Gustave Flaubert.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/gustave-flaubert"&gt;Gustave Flaubert&lt;/a&gt; was an influential novelist who had both the characteristics of a romanticist and a realist. The short stories in this collection put that dichotomy on display.&lt;/p&gt;
